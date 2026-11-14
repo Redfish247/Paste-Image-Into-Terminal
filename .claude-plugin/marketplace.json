@@ -1,0 +1,5 @@
+{
+  "name": "paste-image",
+  "owner": { "name": "Redfish247" },
+  "plugins": [{ "name": "paste-image", "source": "./" }]
+}
