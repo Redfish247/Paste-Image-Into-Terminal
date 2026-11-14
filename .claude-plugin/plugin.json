@@ -1,0 +1,5 @@
+{
+  "name": "paste-image",
+  "version": "0.1.0",
+  "description": "Ctrl+V with a screenshot on the clipboard saves it as a PNG and types its file path into the prompt."
+}
